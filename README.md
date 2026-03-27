@@ -7,7 +7,7 @@ A website to host long snippets. Really useful when you need a snippet on headle
 ## Usage
 
 ```bash
-curl https://hosted.winst.in/<snippet-file>
+curl https://winstxnhdw.com/snippets/<snippet-file>
 ```
 
 ## Sideloading
@@ -15,5 +15,5 @@ curl https://hosted.winst.in/<snippet-file>
 Add the following to your SideStore/AltStore source list.
 
 ```console
-hosted.winst.in/apps.json
+https://winstxnhdw.com/snippets/apps.json
 ```
