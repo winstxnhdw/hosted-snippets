@@ -7,11 +7,11 @@
   "headerURL": "https://avatars.githubusercontent.com/u/56998716",
   "website": "https://github.com/winstxnhdw",
   "tintColor": "#107FCD",
-  "featuredApps": ["com.twyt.manhuawu"],
+  "featuredApps": ["com.benniao.imanga"],
   "apps": [
     {
       "name": "Manga Bird",
-      "bundleIdentifier": "com.twyt.manhuawu",
+      "bundleIdentifier": com.benniao.imanga",
       "developerName": "winstxnhdw",
       "subtitle": "Manga Bird, back to life.",
       "localizedDescription": "The legendary manga reader app for iOS.",
