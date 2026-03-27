@@ -11,7 +11,7 @@
   "apps": [
     {
       "name": "Manga Bird",
-      "bundleIdentifier": com.benniao.imanga",
+      "bundleIdentifier": "com.benniao.imanga",
       "developerName": "winstxnhdw",
       "subtitle": "Manga Bird, back to life.",
       "localizedDescription": "The legendary manga reader app for iOS.",
